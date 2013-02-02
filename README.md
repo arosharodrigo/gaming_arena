@@ -1,2 +1,2 @@
-gaming_arena
+Instructions
 ============
